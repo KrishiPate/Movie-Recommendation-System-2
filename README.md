@@ -1,4 +1,5 @@
 # Movie-Recommendation-System-2
+# Can view the wesite here: http://krishipatel.pythonanywhere.com/
 The project mainly involved the use of Flask, Bootstrap and Tailwind CSS. IMDB Dataset was used to train the model.
 
 Three models were implemented:
@@ -10,4 +11,4 @@ The similarity score for each of them was calculated and the best results were g
 
 The TMDB API was used to access the varius attributes of a movie depending on its movie id.
 
-Can view the wesite here: http://krishipatel.pythonanywhere.com/
+
