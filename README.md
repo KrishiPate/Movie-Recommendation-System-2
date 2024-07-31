@@ -62,4 +62,4 @@ For any questions or feedback, please contact:
 
 - Krishi Patel
 - GitHub: KrishiPate
-- Email: your-email@example.com
+- Email: krishi.patel9426@gmail.com
